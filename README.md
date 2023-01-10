@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate full Stack Web developer from Argentina</h3>
 
--   🔭 I’m currently working on **App móvil**
+-   🔭 I’m currently working on **Desarrollo Web && App**
 
 -   🌱 I’m currently learning **React Native, React Js, NodeJs, MongoDB**
 
