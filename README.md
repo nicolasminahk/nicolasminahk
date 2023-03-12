@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on **Desarrollo Web && Mobile**
 
--   🌱 I’m currently learning **React Native, GraphQL, Firebase**
+-   🌱 I’m currently learning **React Native, GraphQL and by studying Artificial Intelligences**
 
 -   💬 Ask me about **Proyects!**
 
